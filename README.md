@@ -14,11 +14,9 @@ Open a directory in VSCodium with Alfred
    - &#x23ce; (`return`) to open with VSCodium
    - &#x2325; (`option`) + &#x23ce; (`return`) to open in Finder
 
-<p align="center">
-<img alt="open-with-vscode gif" src="https://giphy.com/gifs/FmuZjwYMXECsYvNDMZ/html5"/>
+<p align="center"></p>
+<img alt="open-with-vscode gif" src="https://media.giphy.com/media/ocF00k2wnswpwfuJ94/giphy.gif"/>
 </p>
-
-<iframe src="https://giphy.com/embed/FmuZjwYMXECsYvNDMZ" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alfred-vscodium-FmuZjwYMXECsYvNDMZ">via GIPHY</a></p>
 
 ## Keybinding
 
