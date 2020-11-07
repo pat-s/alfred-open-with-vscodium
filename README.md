@@ -22,3 +22,7 @@ Open a directory in VSCodium with Alfred
 
 Why `cd`? Because `codium` is too long.
 Feel free to adjust it to your needs in the Alfred workflow :)
+
+## Acknowledgements
+
+Adapted from [iamstevendao/alfred-open-with-vscode](https://github.com/iamstevendao/alfred-open-with-vscode).
